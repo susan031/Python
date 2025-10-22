@@ -1,4 +1,4 @@
-<center><h1>Заголовок по центру</h1></center>
+<p style="text-align: center;">АЗАЗАЗАЗА</p>
 <div align="center">
   <img src="img2.jpg" width="512" height="300"/>
 </div>
