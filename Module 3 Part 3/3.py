@@ -4,4 +4,4 @@ def has_unique_digits(n):
 count = sum(has_unique_digits(i) for i in range(100, 10000))
 
 print(f"Количество чисел с разными цифрами: {count}")
-input("Press any key...")
+input("Press ENTER...")

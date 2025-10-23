@@ -9,4 +9,4 @@ for number in range(100, 1000):
         count += 1
 
 print("Количество чисел с двумя одинаковыми цифрами:", count)
-input("Press any key...")
+input("Press ENTER...")
